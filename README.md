@@ -1,6 +1,10 @@
 ## `Paytm CLone`
 - This is a Paytm-like clone built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to sign up, log in, view their account balance, transfer money to other users, and more.
 
+## `Demo 👇`
+
+[![Watch Demo](./frontend/src/Assets/image.png)](./frontend/src/Assets/new.mp4)
+
 ## `Features` 
 - User Authentication : Secure user registration and login.
 - Account Balance : View current account balance.
@@ -75,12 +79,7 @@ VITE_API_URL=http://localhost:3000
 ```bash 
 npm run dev 
 ```
-## `Demo`
 
-<video width="600" controls>
-  <source src="./frontend/src/Assets/new.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
